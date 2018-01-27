@@ -2,3 +2,6 @@
 tutorial/tutorial/.idea/
 tutorial/tutorial/db.sqlite3
 tutorial/tutorial/superuser
+
+__pycache__/
+*.pyc
